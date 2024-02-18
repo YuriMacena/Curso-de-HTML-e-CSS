@@ -1,0 +1,51 @@
+cap 2 aula 1
+
+Como a Internet funciona?
+
+Representação de Dados
+
+O que é bit e byte?
+
+01 - binary digit (bit), um bit é um zero ou um.
+
+01000001 - 8 bits (chamado de byte)
+
+01000001 = A
+^
+código multibyte
+UTF-8?
+
+1024 bytes = 1KB (1 kilobytes)
+^
+2^10
+
+1024 KB = 1MB (1 megabytes)
+1024 MB = 1GB (1 gigabytes)
+1024 GB = 1TB (1 terabytes)
+
+MB = Mb -> megabits, usado para transmissão
+^
+megabytes, usado para armazenamento
+
+--------------------------------------------------------------
+
+Como nos conectamos?
+
+cliente ->  modem -> dispositivos -> internet
+modem = modulação e demodulação
+
+--------------------------------------------------------------
+
+Como acessamos servidores?
+
+cliente -> modem -> internet -> servidor
+
+--------------------------------------------------------------
+
+O que são os servidores DNS?
+
+<img>
+
+E as rotas?
+
+A internet é uma rede finita, com caminhos infinitos. A internet tem equipamentos especifícos que conseguem desviar a rota para evitar problemas.
