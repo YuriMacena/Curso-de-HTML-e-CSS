@@ -1,0 +1,21 @@
+cap 1 aula 4
+
+Como a Internet chega na minha casa?
+
+A internet nasceu na Guerra Fria, em 1969, foi criado o ARPANET, a ARPANET criou os primeiros quatro computadores da internet. o SDS 90, SDS Sigma 7, DEC PDP-10 e IBM 390/75. Na época, computadores diferentes tinham linguagens diferentes. Por causa deste problema, foi criado o primeiro protocolo da Internet: a NCP, que servia como outra linguagem que esses computadores tinham e com isso conseguissem comunicar-se entre si.
+
+A internet cresceu em larga escala no EUA na década de 70, e com a necessidade de resolver o problema do protocólo NCP (a comunicação apenas podia ser realizada unicamente de cada vez) surgiu o protocólo TCP/IP em 1972, unindo os trabalhos de Bob Kahn (TCP) e Vint Cerf (IP). É usado até hoje e evoluiu até os dias atuais. A comunicação da internet na época era feita apartir de cabos que atravessam o país (EUA). Em 1977, isto mudou e a comunicação em satélite foi feita em conjunto com Londres. Diante do crescimento da ARPANET que era administrado pelos militares, porém começou a ser utilizada por universitários, empresas e etc, a ARPANET foi dividida para facilitar a administração. Surgindo a MILNET (parte dos militares), a NSFNET (parte cientifíca, das universidades) e a parte comercial (várias redes comerciais). Para uma maior comunicação entre as três, foi feita uma rede de interconexão entre eles, a Internetworking. simplificando: Internet.
+
+A internet é um conjunto de várias redes.
+
+ferramentas para maior compreensão:
+https://youtu.be/TNQsmPf24go - How does the Internet works?
+www.submarinecablemap.com
+
+O surgimente da WWW
+
+Em 1993, em Genebra, Tim Berners-Lee criou um protocólo que foi incluido no TCP/IP, a http:// e a linguagem de marcação de hipertextos: HTML, baseado no http. Para a Worldwide Web (WWW) funcionar, foi criado o primeiro navegador: o Mozaic, feito por Marc Andreessen, compartível com essas tecnologias criadas por Tim Berners-Lee (TBL). A WWW é uma subrede da Internet, especializada em HTTP. Essas subrede pode se comunicar com as outras da Internet e vice-versa.
+
+
+
+

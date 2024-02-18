@@ -1,0 +1,49 @@
+cap 1 aula 2
+
+---------------------------------------------------------------
+
+-> Este curso É para você se...
+
+"-Me interesso por aprender a criar site, mas não sei por onde começar."
+
+"-Já tentei, mas acho confuso 'decorar' tantos comandos."
+
+São bastantes comandos a ser aprendidos, porém, deve-se haver em mente que é necessário práticar constantemente exercícios para memorizar facilmente. 
+
+"-Tento boa base, mas quero me aprofundar nas especificações."
+
+"Consigo adaptar códigos prontos, mas não sei criar os meus próprios sites."
+
+Se você está aprendendo e a única coisa que consegue fazer é copiar códigos e modificá-los, você não está aprendendo a desenvolver sites, você está só aprendendo a copiar e modificar. Isto acontece no mercado e pode-se fazer, no entanto, é necessário aprender também a desenvolver do zero.
+
+"-Estou tento essa disciplina e estou com dificuldades."
+
+Não tente aprender tudo na correria e maratonando, você tem que praticar bastante o que se aprende na programação, de forma gradual.
+
+"-Além de aprender a criar sites, quero deixá-los na internet."
+
+Estando de acordo com uma dessas frases, este curso é para você.
+
+---------------------------------------------------------------
+
+-> Este curso NÃO é para você se...
+
+"-Eu já sei tudo sobre desenvolvimento HTML5 e CSS3."
+
+Se você precisa aprender SaaS, animação ou Canvas em HTML, este curso não é para você. Isto está em outro nível além deste curso.
+
+"-Estou procurando por códigos prontos e templates para sites."
+
+Não é neste curso que você irá encontrar. É bom clonar projetos reais, mas para iniciantes isto não será possível para um aprendizado real e duradouro haver vários códigos copiados e colados na tela.
+
+"-Estou com pressa e preciso aprender em poucas semanas."
+
+Este curso é para um aprendizado de médio a longa-prazo, necessitanto meses para aprende-lo.
+
+"-Quero apenas uma lista de comandos, sem 'papinho' extra."
+
+"-Não consigo esperar o lançamento de aulas semanais."
+
+"-Prefiro consultar a documentação oficial das linguagens."
+
+---------------------------------------------------------------

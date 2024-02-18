@@ -1,0 +1,36 @@
+cap 1 aula 3
+
+---------------------------------------------------------------
+
+-> Bibliografia Recomendada -> Material de apoio 
+
+DevWeb - História da Internet - Curso em Video (PDF)
+Disponível no repositório HTML-CSS de gustavoguanabara
+
+
+---------------------------------------------------------------
+
+
+-> Referências on-line e documentação
+
+Referência MDN - Mozilla Developer Network (pt-br)
+
+W3C Standards - World Wide Web Consortium (eng)
+
+WHATWG Living Standard - Web Hypertext Application Technology Working Group (eng)
+
+W3Schools - Refsnes Data
+
+Leitor de Livro - Kindle
+
+---------------------------------------------------------------
+
+-> Livros
+
+HTML5 - Mark Pilgrim (pt-br)
+CSS - Eril Meyer (eng)
+Flexbox in CSS - Estelle Weyl (eng)
+Grid Layout in CSS - Eric Meyer (eng)
+
+---------------------------------------------------------------
+
